@@ -3,11 +3,10 @@ using namespace std;
 int main()
 {
     int x;
-    cin>>x;
 
-    while (cin > https://github.com/marufbytes/Phithron_DSA_Algox)
+    while (cin>>x)
     {
-        
+        cout<<x<<endl;
     }
     
 
